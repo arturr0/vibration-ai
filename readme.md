@@ -20,4 +20,3 @@ Real-time damping prediction system for mechanical vibrations using neural netwo
 ```text
 Backend: C++17 | Neural Network (Custom) | Multithreading
 Visualization: Allegro5 | Real-time Plotting
-Data: Synthetic Generation | Normalization Pipeline
