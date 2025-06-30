@@ -1,6 +1,4 @@
 # Vibration AI - Vibration Analysis Neural Network
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![C++](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)
 [![Allegro](https://img.shields.io/badge/Allegro-5.2-red.svg)](https://liballeg.org/)
 
