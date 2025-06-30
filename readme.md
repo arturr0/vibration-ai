@@ -4,7 +4,7 @@
 
 Real-time damping prediction system for mechanical vibrations using neural networks and physics simulation.
 
-![Demo Visualization](https://cdn.glitch.global/79283f6f-ef1e-4285-822b-eaefe68c462e/sdof.png?v=1751252076844)
+![Demo Visualization](https://cdn.glitch.global/79283f6f-ef1e-4285-822b-eaefe68c462e/sdof3.png?v=1751252687339)
 
 ## Key Features
 - 🧠 **Neural Network Core**  
